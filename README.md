@@ -27,6 +27,7 @@ er at vi har sat den op på hvordan vi tror vi kan få den til at se ud til sids
 ##Flowchart
 
 ![flowchart.png](Flowchart.png)
+
 I forhold til vores flwowchart, har vi lavet en design som har givet os en indblik til hvordan programmet skal se ud.
 Denne flowchart er ikke den sidste flowchart vi lavet, siden den her er vores hvordan vores program skal virke optimalt. 
 
