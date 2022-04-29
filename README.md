@@ -12,17 +12,20 @@ I trello har vi givet hver en af sine panaler, hvor vi har givet dem hver sine p
 Ud fra vores trello og hvad vi har valgt, har vi valgt at lave en flowchart der kunne passe ind til det, og en GUI.
 
 ###Metoder
+
 I denne projekt har vi valt at bruge disee følgende metoder i vores program og til projektet generelt.
 
 Vi har brugt TKinter, flowhcart, GUI, UML Diagram, Trello.  
 Kode metoder kommer senere.
 
 ##GUI
+
 ![GUI.jpg](GUI.jpg)
 I vores GUI har vi sat op et program som har vores prototype af hvordan vi har valgt at have vores program sat op. Det vi har skrevet lige nu
 er at vi har sat den op på hvordan vi tror vi kan få den til at se ud til sidst. Det er en prototype som giver os en ide om hvordan vi skal lave vores program med metoden TKinter.
 
 ##Flowchart
+
 ![flowchart.png](Flowchart.png)
 I forhold til vores flwowchart, har vi lavet en design som har givet os en indblik til hvordan programmet skal se ud.
 Denne flowchart er ikke den sidste flowchart vi lavet, siden den her er vores hvordan vores program skal virke optimalt. 
