@@ -34,4 +34,4 @@ Denne flowchart er ikke den sidste flowchart vi lavet, siden den her er vores hv
 Design-wise har vi opstillet den så at programmet har en startspunkt og en sluts punkt, med et punkt hvor den kan gå tilbage til starts punktet så den kan blive reloaded uden at man skal slukke og åbne igen.
 
 
-test1
+test12
